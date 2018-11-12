@@ -1,2 +1,7 @@
 Furist & Vegetable
 ==================
+
+
+bananas 
+apple
+watermelon
